@@ -1,8 +1,0 @@
-version: 2
-language: "id"
-
-reviews:
-  profile: "chill"
-  high_level_summary: true
-  instructions: |
-    - Selalu berikan seluruh ulasan kode, analisis bug, dan saran perbaikan dalam Bahasa Indonesia.
